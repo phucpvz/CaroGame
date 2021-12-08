@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<SettingsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Players>
+    <Player>
+      <Name>Phuc</Name>
+      <ImagePath>D:\Icon\Images\512x512bb.jpg</ImagePath>
+    </Player>
+    <Player>
+      <Name>An</Name>
+      <ImagePath>D:\Icon\Images\folder-down-icon.png</ImagePath>
+    </Player>
+  </Players>
+  <WaitingTime>20000</WaitingTime>
+</SettingsData>
